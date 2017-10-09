@@ -1,4 +1,6 @@
 # 3D Models
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2F3D.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2F3D?ref=badge_shield)
+
 3D Models in Autodesk Inventor and STL. STL files viewable online with <3 via GitHub.
 
 ## Hand-Picked Files
@@ -20,3 +22,7 @@ Vertical square tower: https://github.com/iliterobotics/3D/blob/master/Robot2013
 AndyMark 4 Perf ThruTread 500 Hex: https://github.com/iliterobotics/3D/blob/master/AndyMark/4%20Perf%20ThruTread%20500%20Hex.ipt.stl
 
 Pneuare Tank (best viewed with Surface Angles zoomed in): https://github.com/iliterobotics/3D/blob/master/Pneumatics/Pneuare%20Tank.ipt.stl
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2F3D.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2F3D?ref=badge_large)
